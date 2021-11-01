@@ -1,0 +1,50 @@
+DealNumberCustomerNameDealershipNameVehicle             Price Date
+                           Sun of          2017 Ferrari
+      5469Milli Fulton     Saskatoon       488 Spider 429,987 6/19/2018
+                                           2009
+                                           Lamborghini
+                                           Gallardo
+                                           Carbon
+          Rahima           Seven Star      Fiber LP-
+      5132Skinner          Dealership      560          169,900 1/14/2018
+                                           2016
+                                           Porsche
+                                           911 2dr
+                           Maxwell &       Cpe GT3
+      5795Aroush Knapp Junior              RS           289,900 6/7/2018
+                                           2018 Jeep
+                                           Grand
+          Richard          Milton Jeep     Cherokee
+      5212Spencer          Limited         Trackhawk 134,599 7/13/2018
+                                           2018 BMW
+                                           M760Li
+                           Scott Toronto Xdrive
+      5268Naseem Snow Dealership, Inc Sedan             177,608 1/21/2018
+                                           2018
+                                           Mercedes-
+                           Mythicgarcia    Benz S-
+                           Dealership      Class
+      5765Storm William LTDA               Cabriolet 189,693 3/22/2018
+                                           2017
+                                           Chevrolet
+                           Richaremus      Corvette
+      5465                 Jafur Dealer    Z06          132,925 3/4/2018
+                                           2018 Lexus
+      5545                 Horseallen Cars LS 500h      164,810 2/5/2018
+                                           2018
+                           Cheruharrison Nissan GT-
+      5890Ronnie Griffiths Auto            R Premium 147,018 4/8/2018
+                                           2018 Jeep
+                                           Grand
+                           Legowart        Cherokee
+      5812Anwar Hoffman Kingorty, Ltd.     Trackhawk 130,936 5/11/2018
+                                           2017 Dodge
+                           Coreen          Viper New
+      5298Jakob Osborn Dealership          Car ACR 229,998 6/11/2018
+                           Saskatoon       2017 Ferrari
+      5359Maxine Daniels Ferrari           488 Spider 419,955 7/15/2018
+                                           2018 Jeep
+                                           Grand
+                           Milton Jeep     Cherokee
+      5712Donald Waters Limited            Trackhawk 135,500 6/21/2018
+
